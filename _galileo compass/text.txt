@@ -1,0 +1,8 @@
+this is a 3d printed version of a long lost galileo's compass which in its hay day was used to draw ellipses. This should be a fun toy for all those learning constructive geometry
+
+
+print in abs at .25mm layer height with 50% infill... For assembling you need a 5mm smooth rod, 4mm threaded rods , and 5 X 7 x 10 mm brass bushing and m3 bolts.....  
+
+it is fairly simple to assemble...   
+
+print two of the long arm file and one set of the other pieces  
